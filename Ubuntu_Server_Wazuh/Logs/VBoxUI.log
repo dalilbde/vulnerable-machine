@@ -1,0 +1,38 @@
+00:00:00.121384 VirtualBox GUI (separate) 7.0.8 r156879 win.amd64 (Apr 17 2023 16:42:53) release log
+00:00:00.121388 Log opened 2024-12-18T18:10:29.666058000Z
+00:00:00.121389 Build Type: release
+00:00:00.121393 OS Product: Windows 11
+00:00:00.121395 OS Release: 10.0.22631
+00:00:00.121396 OS Service Pack: 
+00:00:00.142793 DMI Product Name: Victus by HP Gaming Laptop 16-r0xxx
+00:00:00.149903 DMI Product Version: Type1ProductConfigId
+00:00:00.149918 Firmware type: UEFI
+00:00:00.150670 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.150702 Host RAM: 14029MB (13.7GB) total, 1662MB available
+00:00:00.150709 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+00:00:00.150710 Process ID: 14172
+00:00:00.150711 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.151749 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.478446 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.044432 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:00:02.051651 DnD: User Interface Privilege Isolation (UIPI) is running with SECURITY_MANDATORY_MEDIUM_RID
+00:00:02.052296 GUI: UIMachineViewNormal::resendSizeHint: Restoring guest size-hint for screen 0 to 800x600
+00:00:02.332999 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.333031 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:00:02.357405 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+00:00:02.357476 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:00:02.358711 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:00:02.358743 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:02.359534 GUI: HID LEDs sync is enabled
+00:00:02.385892 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:02.672754 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:30.313557 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:24.039976 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:57.026354 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:34:22.688659 GUI: Request for close-action to power VM off.
+00:34:22.688996 GUI: Powering VM off..
+00:34:22.946682 GUI: Passing request to close Runtime UI from UI session to UI machine.
+00:34:22.948665 GUI: UICommon: Handling aboutToQuit request..
+00:34:23.982288 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:34:23.983357 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:34:24.002607 GUI: UICommon: aboutToQuit request handled!

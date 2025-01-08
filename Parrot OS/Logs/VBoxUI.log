@@ -1,0 +1,326 @@
+00:00:00.100948 VirtualBox GUI (separate) 7.0.8 r156879 win.amd64 (Apr 17 2023 16:42:53) release log
+00:00:00.100950 Log opened 2024-12-18T14:17:17.662253100Z
+00:00:00.100951 Build Type: release
+00:00:00.100953 OS Product: Windows 11
+00:00:00.100954 OS Release: 10.0.22631
+00:00:00.100954 OS Service Pack: 
+00:00:00.168649 DMI Product Name: Victus by HP Gaming Laptop 16-r0xxx
+00:00:00.175458 DMI Product Version: Type1ProductConfigId
+00:00:00.175472 Firmware type: UEFI
+00:00:00.176005 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.176028 Host RAM: 14029MB (13.7GB) total, 3419MB (3.3GB) available
+00:00:00.176032 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+00:00:00.176033 Process ID: 29344
+00:00:00.176034 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.177003 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.496531 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.752535 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:00:01.759492 DnD: User Interface Privilege Isolation (UIPI) is running with SECURITY_MANDATORY_MEDIUM_RID
+00:00:01.760309 GUI: UIMachineViewNormal::resendSizeHint: Restoring guest size-hint for screen 0 to 1920x945
+00:00:01.965494 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.965519 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:00:01.971445 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:00:01.971468 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:01.972642 GUI: HID LEDs sync is enabled
+00:00:02.016275 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:06.481730 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:00:06.534143 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:00:23.452384 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:00:42.054536 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:00:42.054577 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:42.055277 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:00:42.055306 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:42.064139 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+00:00:42.064190 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:00:42.064402 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:00:42.064440 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:01:10.174043 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:01:10.174066 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:01:10.511033 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+00:01:10.511072 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:01:10.511292 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:01:10.511324 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:01:28.272369 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+00:01:28.272401 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:01:28.272521 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:01:28.272540 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:01:29.285223 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+00:01:29.285263 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:01:29.285388 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:01:29.285407 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:01:29.478562 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:01:29.489924 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+00:01:29.497231 GUI: UIMachineLogic: Guest-screen count changed
+00:02:04.807210 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:02:05.221848 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:11.964883 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:35.726867 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+00:02:35.732125 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:35.817065 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+00:02:35.822187 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:02:35.826505 GUI: UIMachineLogic: Guest-screen count changed
+00:02:36.431100 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+00:02:36.450951 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:36.494342 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:02:36.500473 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+00:02:36.505204 GUI: UIMachineLogic: Guest-screen count changed
+00:05:19.983629 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:56.604880 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:32:17.500352 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:32:20.875107 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:32:21.280279 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:32:23.364577 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:32:29.530763 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:45:19.073604 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+00:45:19.087631 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:45:19.147410 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+00:45:19.151097 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:45:19.155608 GUI: UIMachineLogic: Guest-screen count changed
+00:45:19.489679 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:45:21.895232 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+00:45:21.919171 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:45:21.989352 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:45:21.993254 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+00:45:22.004397 GUI: UIMachineLogic: Guest-screen count changed
+01:33:17.386637 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:33:42.360101 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:44:30.507194 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+01:44:30.524364 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:44:30.806687 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+01:44:30.810095 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+01:44:30.827198 GUI: UIMachineLogic: Guest-screen count changed
+01:44:51.111496 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+01:44:51.131109 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:44:51.178000 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+01:44:51.180867 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+01:44:51.183922 GUI: UIMachineLogic: Guest-screen count changed
+01:44:51.601889 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+01:44:51.616383 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:44:51.676525 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+01:44:51.679916 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+01:44:51.688021 GUI: UIMachineLogic: Guest-screen count changed
+01:45:13.329036 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:05:53.223194 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+02:05:53.239472 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:05:53.362995 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:05:53.365182 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+02:05:53.375772 GUI: UIMachineLogic: Guest-screen count changed
+02:09:46.577246 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+02:09:46.588050 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:09:46.612313 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+02:09:46.615958 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:09:46.619320 GUI: UIMachineLogic: Guest-screen count changed
+02:09:47.140596 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+02:09:47.157592 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:09:47.234429 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:09:47.237212 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:09:47.245132 GUI: UIMachineLogic: Guest-screen count changed
+02:16:04.250430 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+02:16:04.258216 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:16:04.289716 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:16:04.292516 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:16:04.296809 GUI: UIMachineLogic: Guest-screen count changed
+02:16:04.879317 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+02:16:04.892796 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:16:04.953603 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:16:04.957041 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:16:04.964594 GUI: UIMachineLogic: Guest-screen count changed
+02:16:06.347943 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+02:16:06.365388 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:16:06.519636 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:16:06.522263 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+02:16:06.532099 GUI: UIMachineLogic: Guest-screen count changed
+02:20:11.250141 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+02:20:11.253901 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:20:11.285180 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+02:20:11.290188 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:20:11.298819 GUI: UIMachineLogic: Guest-screen count changed
+02:20:11.832140 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+02:20:11.850282 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:20:11.910100 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:20:11.913305 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:20:11.920624 GUI: UIMachineLogic: Guest-screen count changed
+02:22:50.207084 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+02:22:50.219954 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:22:50.222019 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:22:50.329915 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:22:50.332828 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+02:22:50.347243 GUI: UIMachineLogic: Guest-screen count changed
+02:25:13.553724 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+02:25:13.571686 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:25:13.596058 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+02:25:13.599978 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:25:13.604118 GUI: UIMachineLogic: Guest-screen count changed
+02:25:14.193341 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 919x935
+02:25:14.205792 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:25:14.299852 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:25:14.303018 GUI: UIFrameBufferPrivate::performResize: Size=919x935, Using fallback buffer since no source bitmap is provided
+02:25:14.314407 GUI: UIMachineLogic: Guest-screen count changed
+02:25:23.748754 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+02:25:23.758026 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:25:23.831635 GUI: UIFrameBufferPrivate::performResize: Size=919x935, Using fallback buffer since no source bitmap is provided
+02:25:23.835498 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:25:23.847504 GUI: UIMachineLogic: Guest-screen count changed
+02:25:24.105862 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 640x480 to guest-screen 0 because frame-buffer is already of the same size.
+02:25:24.170269 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 640x480 to guest-screen 0 because frame-buffer is already of the same size.
+02:25:24.172422 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:25:26.500501 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+02:25:26.523535 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:25:26.571846 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:25:26.576184 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:25:26.584810 GUI: UIMachineLogic: Guest-screen count changed
+02:52:58.270875 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+02:52:58.299561 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:52:58.358838 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:52:58.362154 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+02:52:58.379701 GUI: UIMachineLogic: Guest-screen count changed
+02:53:19.024419 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+02:53:19.040578 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:53:19.068407 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+02:53:19.076218 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:53:19.085072 GUI: UIMachineLogic: Guest-screen count changed
+02:53:19.436684 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+02:53:19.457978 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:53:19.654517 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:53:19.657407 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:53:19.666449 GUI: UIMachineLogic: Guest-screen count changed
+02:53:43.311716 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+02:53:43.341637 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:53:43.415317 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:53:43.418350 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+02:53:43.431401 GUI: UIMachineLogic: Guest-screen count changed
+02:54:25.370983 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+02:54:25.376629 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:54:25.419407 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+02:54:25.424974 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:54:25.436438 GUI: UIMachineLogic: Guest-screen count changed
+02:54:25.804089 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+02:54:25.830443 GUI: UIMediumEnumerator: Medium-enumeration finished!
+02:54:25.958240 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+02:54:25.962019 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+02:54:25.970834 GUI: UIMachineLogic: Guest-screen count changed
+03:14:20.699409 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+03:14:20.720500 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:14:20.796081 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:14:20.799078 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:14:20.804826 GUI: UIMachineLogic: Guest-screen count changed
+03:14:21.517279 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+03:14:21.535964 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:14:21.538572 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:14:21.597085 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:14:21.598935 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:14:21.614112 GUI: UIMachineLogic: Guest-screen count changed
+03:15:36.884971 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x760
+03:15:36.903235 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x760 to guest-screen 0 because this hint was previously sent.
+03:15:36.904643 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:15:36.914045 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x760 to guest-screen 0 because this hint was previously sent.
+03:15:36.922030 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x760 to guest-screen 0 because this hint was previously sent.
+03:15:36.950746 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x760 to guest-screen 0 because this hint was previously sent.
+03:15:36.954144 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x760 to guest-screen 0 because this hint was previously sent.
+03:15:36.968673 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:15:36.971089 GUI: UIFrameBufferPrivate::performResize: Size=958x760, Using fallback buffer since no source bitmap is provided
+03:15:36.972853 GUI: UIMachineLogic: Guest-screen count changed
+03:15:36.974663 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x760 to guest-screen 0 because frame-buffer is already of the same size.
+03:15:37.008347 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x760 to guest-screen 0 because frame-buffer is already of the same size.
+03:15:37.034027 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x760 to guest-screen 0 because frame-buffer is already of the same size.
+03:15:37.114121 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x760 to guest-screen 0 because frame-buffer is already of the same size.
+03:15:37.140168 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x760 to guest-screen 0 because frame-buffer is already of the same size.
+03:15:37.172539 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:15:37.897914 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+03:15:37.906467 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:15:37.998321 GUI: UIFrameBufferPrivate::performResize: Size=958x760, Using fallback buffer since no source bitmap is provided
+03:15:38.002261 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:15:38.005297 GUI: UIMachineLogic: Guest-screen count changed
+03:15:38.158450 GUI: UIMachineView::sltPerformGuestResize: Omitting to send size-hint 958x935 to guest-screen 0 because frame-buffer is already of the same size.
+03:15:38.183712 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:17:24.964114 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+03:17:24.983585 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:17:25.068618 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:17:25.071981 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+03:17:25.092020 GUI: UIMachineLogic: Guest-screen count changed
+03:18:34.979432 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+03:18:34.991982 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:18:35.019897 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+03:18:35.024303 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:18:35.028273 GUI: UIMachineLogic: Guest-screen count changed
+03:18:35.497035 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+03:18:35.519730 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:18:35.648404 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:18:35.651224 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:18:35.663106 GUI: UIMachineLogic: Guest-screen count changed
+03:23:53.929937 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+03:23:53.942713 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:23:54.048104 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:23:54.052221 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+03:23:54.070423 GUI: UIMachineLogic: Guest-screen count changed
+03:25:32.455510 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+03:25:32.477687 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:25:32.505683 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+03:25:32.510411 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:25:32.517245 GUI: UIMachineLogic: Guest-screen count changed
+03:25:33.065846 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+03:25:33.088428 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:25:33.176624 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:25:33.179827 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:25:33.192349 GUI: UIMachineLogic: Guest-screen count changed
+03:32:59.716410 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+03:32:59.729751 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:32:59.849421 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:32:59.852400 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+03:32:59.868872 GUI: UIMachineLogic: Guest-screen count changed
+03:33:15.907850 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+03:33:15.916284 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:33:15.966091 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+03:33:15.971543 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:33:15.980754 GUI: UIMachineLogic: Guest-screen count changed
+03:33:16.433465 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+03:33:16.457696 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:33:16.511059 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:33:16.515040 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:33:16.526998 GUI: UIMachineLogic: Guest-screen count changed
+03:47:47.854573 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+03:47:47.872825 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:47:47.980968 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:47:47.983892 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+03:47:48.001436 GUI: UIMachineLogic: Guest-screen count changed
+03:48:19.818513 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+03:48:19.839981 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:48:19.875693 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+03:48:19.880120 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:48:19.883289 GUI: UIMachineLogic: Guest-screen count changed
+03:48:20.383523 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+03:48:20.400858 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:48:20.466163 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:48:20.470488 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:48:20.480799 GUI: UIMachineLogic: Guest-screen count changed
+03:49:39.681845 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x945
+03:49:39.704460 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:49:39.792966 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:49:39.794934 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+03:49:39.817171 GUI: UIMachineLogic: Guest-screen count changed
+03:52:21.758857 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 640x480
+03:52:21.774363 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:52:21.812450 GUI: UIFrameBufferPrivate::performResize: Size=1920x945, Using fallback buffer since no source bitmap is provided
+03:52:21.818306 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:52:21.825966 GUI: UIMachineLogic: Guest-screen count changed
+03:52:22.334426 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 958x935
+03:52:22.353267 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:52:22.469961 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+03:52:22.474505 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:52:22.484338 GUI: UIMachineLogic: Guest-screen count changed
+03:53:14.649727 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:54:42.296725 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:56:57.993156 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 949x935
+03:56:58.000778 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:56:58.070912 GUI: UIFrameBufferPrivate::performResize: Size=958x935, Using fallback buffer since no source bitmap is provided
+03:56:58.074931 GUI: UIFrameBufferPrivate::performResize: Size=949x935, Using fallback buffer since no source bitmap is provided
+03:56:58.077241 GUI: UIMachineLogic: Guest-screen count changed
+03:57:36.022649 GUI: UIMediumEnumerator: Medium-enumeration finished!
+04:01:09.009335 GUI: UIMediumEnumerator: Medium-enumeration finished!
+04:27:30.311019 GUI: Request for close-action to power VM off.
+04:27:30.311390 GUI: Powering VM off..
+04:27:30.911509 GUI: Passing request to close Runtime UI from UI session to UI machine.
+04:27:30.916506 GUI: UICommon: Handling aboutToQuit request..
+04:27:32.021832 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+04:27:32.023239 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+04:27:32.082723 GUI: UICommon: aboutToQuit request handled!
